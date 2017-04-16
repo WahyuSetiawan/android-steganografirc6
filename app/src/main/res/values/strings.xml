@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pesan Dalam Gambar</string>
+
+    <!-- TODO : buat navigaiton drawer android -->
+    <string name="encrypte_section">Kirim Pesan</string>
+    <string name="decrypte_section">Bongkar Pesan</string>
+    <string name="about_section">Informasi Develop</string>
+    <string name="keluar_section">Keluar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
